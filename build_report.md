@@ -1,11 +1,11 @@
 # Build Report
 
-Generated: 2026-02-26 09:01 UTC
+Generated: 2026-03-11 12:44 UTC
 
 ## Summary
 
-- Authors processed: **2**
-- XML files processed: **4**
+- Authors processed: **1**
+- XML files processed: **1**
 
 ## Missing Title
 ✓ None
